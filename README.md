@@ -1,0 +1,1 @@
+My manual repository
